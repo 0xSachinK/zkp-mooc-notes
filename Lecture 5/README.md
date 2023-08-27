@@ -1,7 +1,6 @@
 # Plonk Interactive Oracle Proofs (IOP)
 
-Lecture:[ ZKP MOOC Lecture 5: Plonk Interactive Oracle Proofs (IOP)](https://youtu.be/A0oZVEXav24)
-Author of notes: [0xSachinK](https://twitter.com/0xSachinK)
+Lecture:[ ZKP MOOC Lecture 5: Plonk Interactive Oracle Proofs (IOP)](https://youtu.be/A0oZVEXav24) | Author of notes: [0xSachinK](https://twitter.com/0xSachinK)
 
 ## KZG PCS
 

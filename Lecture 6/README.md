@@ -1,7 +1,6 @@
 # Discrete-log-based Polynomial Commitments
 
-Lecture:[ ZKP MOOC Lecture 6: Discrete-log-based Polynomial Commitments](https://youtu.be/WyT5KkKBJUw)
-Author of notes: [0xSachinK](https://twitter.com/0xSachinK)
+Lecture:[ ZKP MOOC Lecture 6: Discrete-log-based Polynomial Commitments](https://youtu.be/WyT5KkKBJUw) | Author of notes: [0xSachinK](https://twitter.com/0xSachinK)
 
 **Generic construction of a polynomial commitment**
 

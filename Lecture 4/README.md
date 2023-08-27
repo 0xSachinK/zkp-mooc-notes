@@ -1,7 +1,6 @@
 # Interactive Proofs (IP)
 
-Lecture:[ ZKP MOOC Lecture 4: Interactive Proofs(IP)](https://youtu.be/4018OYyoAf8)
-Author of notes: [0xSachinK](https://twitter.com/0xSachinK)
+Lecture:[ ZKP MOOC Lecture 4: Interactive Proofs(IP)](https://youtu.be/4018OYyoAf8) | Author of notes: [0xSachinK](https://twitter.com/0xSachinK)
 
 ## Interactive Proofs
 
