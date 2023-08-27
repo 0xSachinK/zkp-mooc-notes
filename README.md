@@ -34,8 +34,9 @@
 
 ### Lecture 3: Libraries and Compilers to build ZKP
 
-- This was a more hands-on lecture with live coding. So, I don't have notes for this. You can the [lecture video](https://www.youtube.com/watch?v=UpRSaG6iuks) directly.
-- Read following documents:
+- This was a more hands-on lecture with live coding. So, I don't have notes for this.
+- You can watch the [lecture video](https://www.youtube.com/watch?v=UpRSaG6iuks) itself.
+- And read the following docs:
   - [Circom](https://docs.circom.io/)
   - Wouldn't suggest reading Arkworks and ZoKrates docs. I believe they are not in active development.
 
