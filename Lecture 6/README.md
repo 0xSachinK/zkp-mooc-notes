@@ -1,11 +1,14 @@
-# ZKP MOOC Lecture 6 (Notes)
+# Discrete-log-based Polynomial Commitments
+
+Lecture:[ ZKP MOOC Lecture 6: Discrete-log-based Polynomial Commitments](https://youtu.be/WyT5KkKBJUw)
+Author of notes: [0xSachinK](https://twitter.com/0xSachinK)
 
 **Generic construction of a polynomial commitment**
 
 - keygen(lambda, F) -> global parameters (also called public key, or common reference string)
 - commit(gp, f) -> com_f
 - eval(gp, f, u) -> v, _pi_
-- verify(gp, com_f, u, v, _pi_) -> accept or reject
+- verify(gp, com*f, u, v, \_pi*) -> accept or reject
 
 ## Background
 

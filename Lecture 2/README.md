@@ -1,3 +1,8 @@
+# Overview of Modern SNARK Constructions
+
+Lecture:[ ZKP MOOC Lecture 2: Overview of Modern SNARK Constructions](https://www.youtube.com/watch?v=bGEXYpt3sj0)
+Author of notes: [0xSachinK](https://twitter.com/0xSachinK)
+
 > Lecture 1 talked about non-interactive proofs but rest of the course is focused on non-interactive proofs.
 
 ### Arithmetic circuit

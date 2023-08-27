@@ -1,5 +1,7 @@
-Lecture:[ ZKP MOOC Lecture 1: Introduction and History of ZKP](https://youtu.be/uchjTIlPzFo?si=2SBNSyeecfhKwpF3)
-Author of this Notes: [0xSachinK](https://twitter.com/0xSachinK)
+# Introduction and History of ZKP
+
+Lecture:[ ZKP MOOC Lecture 1: Introduction and History of ZKP](https://youtu.be/uchjTIlPzFo?si=2SBNSyeecfhKwpF3) |
+Author of Notes: [0xSachinK](https://twitter.com/0xSachinK)
 
 ## Classical proofs
 
@@ -58,7 +60,6 @@ If no polynomial time "distinguisher" can tell apart two different probability d
                         \    D1 K - bit string
     Distinguisher  <----\
                         \    D2 K - bit string
-
 
 ![](https://hackmd.io/_uploads/BkSQCW3i3.png)
 

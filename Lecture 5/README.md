@@ -1,3 +1,8 @@
+# Plonk Interactive Oracle Proofs (IOP)
+
+Lecture:[ ZKP MOOC Lecture 5: Plonk Interactive Oracle Proofs (IOP)](https://youtu.be/A0oZVEXav24)
+Author of notes: [0xSachinK](https://twitter.com/0xSachinK)
+
 ## KZG PCS
 
 This lecture gives an introductory explanation. I skipped making notes of that as I have already made detailed [notes of lecture 6](https://hackmd.io/S9L9JGWUQ2W-2-NA24-5KQ) that dives alot deeper into KZG.
@@ -124,8 +129,8 @@ This lecture gives an introductory explanation. I skipped making notes of that a
 - Prover wants to prove that two tuples are permuations of one another
   - Tuple 1: (f(1), f(w), ..., f(w^k-1))
   - Tuple 2: (g(1), g(w), ..., g(w^k-1))
-- f_hat(X) = (X - f(1)) _ (X - f(w)) _ ... \* (X - f(w^k-1))
-- g_hat(X) = (X - g(1)) _ (X - g(w)) _ ... \* (X - g(w^k-1))
+- f*hat(X) = (X - f(1)) * (X - f(w)) \_ ... \* (X - f(w^k-1))
+- g*hat(X) = (X - g(1)) * (X - g(w)) \_ ... \* (X - g(w^k-1))
 - To prove f_hat(X) = g_hat(X)
 - Evaluate them at random point r, and prove f_hat(r) = g_hat(r)
   - Product check: f_hat\(r\) / g_hat\(r\) = 1
